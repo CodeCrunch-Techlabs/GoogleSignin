@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "891968906280",
+    "firebase_url": "https://authdemo-39811.firebaseio.com",
+    "project_id": "authdemo-39811",
+    "storage_bucket": "authdemo-39811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891968906280:android:275307ff3d74353f",
+        "android_client_info": {
+          "package_name": "com.authdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891968906280-j196pvfobaf9dhc0enmkguj2ngtmn1vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCty5cav72wWiR-l2SMocQtRNmYJPv7g7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
