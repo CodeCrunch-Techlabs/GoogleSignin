@@ -1,5 +1,5 @@
 # GoogleSignin
-Create Demo Project from Login with Google.
+Create Demo Project for Login with Google.
 </br>
 <h1>Installation</h1></br>
 Clone this repo</br>
