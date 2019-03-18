@@ -4,8 +4,8 @@ Create Demo Project for Login with Google.
 <h1>Installation</h1></br>
 Clone this repo</br>
 </br>
-$ git clone https://github.com/CodeCrunch-Techlabs/GoogleSignin.git</br>
-$ cd GoogleSignin</br>
+$ git clone https://github.com/CodeCrunch-Techlabs/GoogleSignin-RNative.git</br>
+$ cd GoogleSignin-RNative</br>
 $ yarn install or npm install</br>
 $ react-native run-ios or react-native run-android
 </br></br></br>
